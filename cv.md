@@ -30,7 +30,7 @@ and that the client receives clear and relevant data.
 
 **Tools & Libraries** : (proficient) React.js, Tailwind, Material.UI, Firebase, 
 
-**MISC** : (familiarity) Nest.js 
+**MISC** : (familiarity) Nest.js, vue.js
 
 > [Proficiency refers to over 500 Lines of Mature code]
 > [Familiarity refers to under 500 Lines of Mature code]
